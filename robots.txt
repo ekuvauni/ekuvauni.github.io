@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ekuvauni.github.io/DLY/sitemap_index.txt.gz
+Sitemap: https://ekuvauni.github.io/VXZ/sitemap_index.txt.gz
+Sitemap: https://ekuvauni.github.io/WbY/sitemap_index.txt.gz
+Sitemap: https://ekuvauni.github.io/inN/sitemap_index.txt.gz
+Sitemap: https://ekuvauni.github.io/snv/sitemap_index.txt.gz
